@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Dashboard } from "./components/Dashboard";
 import { Header } from "./components/Header";
 import { NewTransactionModal } from "./components/NewTransactionModal";
-import { TransactionProvider } from "./TransactionContext";
+import { TransactionProvider } from "./hook/useTransaction";
 
 import { GlobalStyle } from "./styles/global";
 import ReactModal from "react-modal";
