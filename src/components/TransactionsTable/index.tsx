@@ -1,12 +1,13 @@
 import { useTransaction } from "../../hook/useTransaction";
+import { Search } from "../Search";
 import { Container } from "./style";
 
 export function TransactionTable() {
 
     const { transactions } = useTransaction()
-
     return (
         <Container>
+            {/* <Search /> */}
             <table>
                 <thead>
                     <tr>
