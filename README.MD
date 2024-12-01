@@ -49,7 +49,10 @@ npm run dev
 
 <h2>📹 Segue abaixo uma imagem do sistema</h2>
 
-https://user-images.githubusercontent.com/64853039/191819880-7243c94c-95c2-4896-95e6-76f5e818f7b5.webm
+
+https://user-images.githubusercontent.com/64853039/218101197-5b30724e-2b87-4cac-b393-998ca80beb1b.mp4
+
+
 <br>
 <br>
 
